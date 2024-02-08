@@ -1,0 +1,21 @@
+body{
+  background-color: blueviolet;                                      
+}
+.box2{
+  background-color: white;
+  width: 25rem;
+  height: 30rem;
+  position: relative;
+  left: 10rem;
+  border-radius: 0.9rem;
+}
+button{
+  display: block;
+  position: relative;
+  left: 5rem;
+  width: 14rem;
+  height: 2.5rem;
+  border-radius: 9px;
+  color: white;
+  background-color: blue;
+}
